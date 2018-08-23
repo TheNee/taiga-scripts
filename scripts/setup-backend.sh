@@ -31,7 +31,7 @@ EOF
 
 if [ ! -e ~/taiga-back ]; then
     createdb-if-needed taiga
-    git clone https://github.com/taigaio/taiga-back.git taiga-back
+    git clone https://github.com/TheNee/taiga-back.git taiga-back
 
     pushd ~/taiga-back
     git checkout -f stable
