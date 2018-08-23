@@ -25,7 +25,7 @@ PATH = /home/$USER/.virtualenvs/taiga/bin:$PATH
 TERM=rxvt-256color
 SHELL=/bin/bash
 USER=taiga
-LANG=en_US.UTF-8
+LANG=de.UTF-8
 HOME=/home/$USER
 PYTHONPATH=/home/$USER/.local/lib/python3.4/site-packages
 EOF
